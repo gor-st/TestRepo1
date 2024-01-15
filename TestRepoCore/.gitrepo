@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = C:/ServiceTitan/Tests/GitSubmodules/TestRepoCore
+	branch = main
+	commit = db193e2969fea4b579ff44d25e36da8ff890a89b
+	parent = 3800a301365760d8a521d1ea16b26c0e0123b520
+	method = merge
+	cmdver = 0.4.6
